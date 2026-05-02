@@ -1,3 +1,5 @@
+package com.mycompany.proyecto1.labfinal;
+
 public class Cancion extends Multimedia {
 
     private String artista;

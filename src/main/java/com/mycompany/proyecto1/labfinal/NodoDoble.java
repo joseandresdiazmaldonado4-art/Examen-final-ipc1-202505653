@@ -1,3 +1,5 @@
+package com.mycompany.proyecto1.labfinal;
+
 public class NodoDoble {
 
     private Cancion dato;

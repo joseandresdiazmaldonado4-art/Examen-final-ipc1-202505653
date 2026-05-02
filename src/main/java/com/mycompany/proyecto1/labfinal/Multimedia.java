@@ -1,3 +1,5 @@
+package com.mycompany.proyecto1.labfinal;
+
 public abstract class Multimedia {
 
     private String titulo;
